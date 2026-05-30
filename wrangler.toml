@@ -1,0 +1,7 @@
+name = "vless-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+UUID = "f8673915-f21f-4a52-8d2b-4b1ad1593a71"
+PROXY_IP = "176.124.221.221"
